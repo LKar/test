@@ -1,4 +1,4 @@
-@Directive({
+/*@Directive({
     selector: '[input]',
 })
 app.filter('dot2comma', [
@@ -6,7 +6,7 @@ app.filter('dot2comma', [
         return function (input) {
             return input.value.toString().replace(',', '.');
         };
-    }]);
+    }]); */
 
 
 
